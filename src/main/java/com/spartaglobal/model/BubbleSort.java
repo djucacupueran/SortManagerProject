@@ -5,12 +5,6 @@ import java.util.Arrays;
 /// swap variableeeeee
 ///watch video min 30 TEST
 public class BubbleSort implements Sort {
-    public static void main(String[] args) {
-        BubbleSort a = new BubbleSort();
-        int[] test = {3,60,35,2,45,320,5};
-        System.out.println(Arrays.toString(a.sort(test)));
-    }
-
     public int[] sort(int[] array){
 
         if(array.length < 2){
@@ -26,6 +20,7 @@ public class BubbleSort implements Sort {
                 }
             }
         }
+        System.out.println("BUBBLEEEEEE");
         return array;
     }
 }

@@ -4,17 +4,6 @@ import java.util.Arrays;
 import java.util.Random;
 
 public class MergeSort implements Sort{
-    public static void main(String[] args) {
-        Random r = new Random();
-        int[] a = new int[11];
-        for(int i=0;i<a.length;i++){
-            a[i] = r.nextInt(-100,200);
-        }
-        System.out.println(Arrays.toString(a));
-        MergeSort b = new MergeSort();
-        b.sort(a);
-        System.out.println(Arrays.toString(a));
-    }
 
     private static void merge(int[] inputArray, int[] leftHalf, int[] rightHalf){
         int leftSize = leftHalf.length;
@@ -69,6 +58,7 @@ public class MergeSort implements Sort{
         sort(rightHalf);
 
         merge(inputArray, leftHalf, rightHalf);
+        System.out.println("MERGEEEEEE");
         return inputArray;
     }
 }
