@@ -1,177 +1,179 @@
-FILE [INFO ] 06-02-2022 1:46 pm main SortingController - User created random array
-FILE [INFO ] 06-02-2022 2:06 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 2:06 pm main SortingController - User created random array
-FILE [INFO ] 06-02-2022 2:08 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 2:08 pm main SortingController - User created random array of size 15
+FILE [INFO ] 06-02-2022 1:46 pm main SortingControllerTest - User created random array
+FILE [INFO ] 06-02-2022 2:06 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 2:06 pm main SortingControllerTest - User created random array
+FILE [INFO ] 06-02-2022 2:08 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 2:08 pm main SortingControllerTest - User created random array of size 15
 FILE [INFO ] 06-02-2022 2:19 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 2:19 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 2:19 pm main SortingController - User created random array of size 17
+FILE [INFO ] 06-02-2022 2:19 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 2:19 pm main SortingControllerTest - User created random array of size 17
 FILE [INFO ] 06-02-2022 2:20 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 2:20 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 2:20 pm main SortingController - User created random array of size 19
+FILE [INFO ] 06-02-2022 2:20 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 2:20 pm main SortingControllerTest - User created random array of size 19
 FILE [INFO ] 06-02-2022 2:21 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 2:21 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 2:21 pm main SortingController - User created random array of size 34
+FILE [INFO ] 06-02-2022 2:21 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 2:21 pm main SortingControllerTest - User created random array of size 34
 FILE [INFO ] 06-02-2022 2:26 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 2:26 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 2:26 pm main SortingController - User created random array of size 156
+FILE [INFO ] 06-02-2022 2:26 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 2:26 pm main SortingControllerTest - User created random array of size 156
 FILE [INFO ] 06-02-2022 2:28 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 2:28 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 2:28 pm main SortingController - User created random array of size 198
+FILE [INFO ] 06-02-2022 2:28 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 2:28 pm main SortingControllerTest - User created random array of size 198
 FILE [INFO ] 06-02-2022 2:29 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 2:29 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 2:29 pm main SortingController - User created random array of size 87
+FILE [INFO ] 06-02-2022 2:29 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 2:29 pm main SortingControllerTest - User created random array of size 87
 FILE [INFO ] 06-02-2022 2:29 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 2:29 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 2:29 pm main SortingController - User created random array of size 957
+FILE [INFO ] 06-02-2022 2:29 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 2:29 pm main SortingControllerTest - User created random array of size 957
 FILE [INFO ] 06-02-2022 4:34 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 4:35 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 4:35 pm main SortingController - User chose Binary Search Tree to sort the array
-FILE [INFO ] 06-02-2022 4:35 pm main SortingController - User created random array of size 17
+FILE [INFO ] 06-02-2022 4:35 pm main SortingControllerTest - User chose Binary Search Tree to sort the array
+FILE [INFO ] 06-02-2022 4:35 pm main SortingControllerTest - User created random array of size 17
 FILE [INFO ] 06-02-2022 4:36 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 4:36 pm main SortingController - User chose Binary Search Tree to sort the array
-FILE [INFO ] 06-02-2022 4:36 pm main SortingController - User created random array of size 123
+FILE [INFO ] 06-02-2022 4:36 pm main SortingControllerTest - User chose Binary Search Tree to sort the array
+FILE [INFO ] 06-02-2022 4:36 pm main SortingControllerTest - User created random array of size 123
 FILE [INFO ] 06-02-2022 4:37 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 4:37 pm main SortingController - User chose Binary Search Tree to sort the array
-FILE [INFO ] 06-02-2022 4:37 pm main SortingController - User created random array of size 43
+FILE [INFO ] 06-02-2022 4:37 pm main SortingControllerTest - User chose Binary Search Tree to sort the array
+FILE [INFO ] 06-02-2022 4:37 pm main SortingControllerTest - User created random array of size 43
 FILE [INFO ] 06-02-2022 4:37 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 4:37 pm main SortingController - User chose Binary Search Tree to sort the array
-FILE [INFO ] 06-02-2022 4:37 pm main SortingController - User created random array of size 5
+FILE [INFO ] 06-02-2022 4:37 pm main SortingControllerTest - User chose Binary Search Tree to sort the array
+FILE [INFO ] 06-02-2022 4:37 pm main SortingControllerTest - User created random array of size 5
 FILE [INFO ] 06-02-2022 4:37 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 4:37 pm main SortingController - User chose Binary Search Tree to sort the array
-FILE [INFO ] 06-02-2022 4:37 pm main SortingController - User created random array of size 6
+FILE [INFO ] 06-02-2022 4:37 pm main SortingControllerTest - User chose Binary Search Tree to sort the array
+FILE [INFO ] 06-02-2022 4:37 pm main SortingControllerTest - User created random array of size 6
 FILE [INFO ] 06-02-2022 4:38 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 4:38 pm main SortingController - User chose Binary Search Tree to sort the array
-FILE [INFO ] 06-02-2022 4:38 pm main SortingController - User created random array of size 7
+FILE [INFO ] 06-02-2022 4:38 pm main SortingControllerTest - User chose Binary Search Tree to sort the array
+FILE [INFO ] 06-02-2022 4:38 pm main SortingControllerTest - User created random array of size 7
 FILE [INFO ] 06-02-2022 4:39 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 4:39 pm main SortingController - User chose Binary Search Tree to sort the array
-FILE [INFO ] 06-02-2022 4:39 pm main SortingController - User created random array of size 8
+FILE [INFO ] 06-02-2022 4:39 pm main SortingControllerTest - User chose Binary Search Tree to sort the array
+FILE [INFO ] 06-02-2022 4:39 pm main SortingControllerTest - User created random array of size 8
 FILE [INFO ] 06-02-2022 4:42 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 4:42 pm main SortingController - User chose Binary Search Tree to sort the array
-FILE [INFO ] 06-02-2022 4:42 pm main SortingController - User created random array of size 5
+FILE [INFO ] 06-02-2022 4:42 pm main SortingControllerTest - User chose Binary Search Tree to sort the array
+FILE [INFO ] 06-02-2022 4:42 pm main SortingControllerTest - User created random array of size 5
 FILE [INFO ] 06-02-2022 4:42 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 4:42 pm main SortingController - User chose Binary Search Tree to sort the array
-FILE [INFO ] 06-02-2022 4:42 pm main SortingController - User created random array of size 8
+FILE [INFO ] 06-02-2022 4:42 pm main SortingControllerTest - User chose Binary Search Tree to sort the array
+FILE [INFO ] 06-02-2022 4:42 pm main SortingControllerTest - User created random array of size 8
 FILE [INFO ] 06-02-2022 4:43 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 4:43 pm main SortingController - User chose Binary Search Tree to sort the array
-FILE [INFO ] 06-02-2022 4:43 pm main SortingController - User created random array of size 8
+FILE [INFO ] 06-02-2022 4:43 pm main SortingControllerTest - User chose Binary Search Tree to sort the array
+FILE [INFO ] 06-02-2022 4:43 pm main SortingControllerTest - User created random array of size 8
 FILE [INFO ] 06-02-2022 4:44 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 4:44 pm main SortingController - User chose Binary Search Tree to sort the array
-FILE [INFO ] 06-02-2022 4:44 pm main SortingController - User created random array of size 9
+FILE [INFO ] 06-02-2022 4:44 pm main SortingControllerTest - User chose Binary Search Tree to sort the array
+FILE [INFO ] 06-02-2022 4:44 pm main SortingControllerTest - User created random array of size 9
 FILE [INFO ] 06-02-2022 4:44 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 4:45 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 4:45 pm main SortingController - User chose Binary Search Tree to sort the array
-FILE [INFO ] 06-02-2022 4:45 pm main SortingController - User created random array of size 8
+FILE [INFO ] 06-02-2022 4:45 pm main SortingControllerTest - User chose Binary Search Tree to sort the array
+FILE [INFO ] 06-02-2022 4:45 pm main SortingControllerTest - User created random array of size 8
 FILE [INFO ] 06-02-2022 6:31 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 6:32 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 6:32 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 6:32 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 6:32 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 6:36 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 6:36 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 6:36 pm main SortingController - User created random array of size 56
+FILE [INFO ] 06-02-2022 6:36 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 6:36 pm main SortingControllerTest - User created random array of size 56
 FILE [INFO ] 06-02-2022 6:36 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 6:37 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 6:38 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 6:38 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 6:43 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 6:45 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 6:45 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 6:45 pm main SortingController - User created random array of size 5
+FILE [INFO ] 06-02-2022 6:45 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 6:45 pm main SortingControllerTest - User created random array of size 5
 FILE [INFO ] 06-02-2022 6:45 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 6:46 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 6:46 pm main SortingController - User created random array of size 6
+FILE [INFO ] 06-02-2022 6:46 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 6:46 pm main SortingControllerTest - User created random array of size 6
 FILE [INFO ] 06-02-2022 6:46 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 6:46 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 6:46 pm main SortingController - User created random array of size 7
+FILE [INFO ] 06-02-2022 6:46 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 6:46 pm main SortingControllerTest - User created random array of size 7
 FILE [INFO ] 06-02-2022 6:48 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 6:50 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 6:51 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 6:51 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 6:51 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 6:51 pm main SortingController - User created random array of size 45
+FILE [INFO ] 06-02-2022 6:51 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 6:51 pm main SortingControllerTest - User created random array of size 45
 FILE [INFO ] 06-02-2022 6:51 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 6:53 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 6:53 pm main SortingController - User exit the program,
+FILE [INFO ] 06-02-2022 6:53 pm main SortingControllerTest - User exit the program,
 FILE [INFO ] 06-02-2022 8:42 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 8:42 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 8:42 pm main SortingController - User created random array of size 100
+FILE [INFO ] 06-02-2022 8:42 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 8:42 pm main SortingControllerTest - User created random array of size 100
 FILE [INFO ] 06-02-2022 8:43 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 8:43 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 8:43 pm main SortingController - User created random array of size 100
+FILE [INFO ] 06-02-2022 8:43 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 8:43 pm main SortingControllerTest - User created random array of size 100
 FILE [INFO ] 06-02-2022 8:43 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 8:43 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 8:43 pm main SortingController - User created random array of size 100
+FILE [INFO ] 06-02-2022 8:43 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 8:43 pm main SortingControllerTest - User created random array of size 100
 FILE [INFO ] 06-02-2022 8:43 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 8:43 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 8:43 pm main SortingController - User created random array of size 10000
+FILE [INFO ] 06-02-2022 8:43 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 8:43 pm main SortingControllerTest - User created random array of size 10000
 FILE [INFO ] 06-02-2022 8:44 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 8:44 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 8:44 pm main SortingController - User created random array of size 10000
+FILE [INFO ] 06-02-2022 8:44 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 8:44 pm main SortingControllerTest - User created random array of size 10000
 FILE [INFO ] 06-02-2022 8:44 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 8:44 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 8:44 pm main SortingController - User created random array of size 100000
+FILE [INFO ] 06-02-2022 8:44 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 8:44 pm main SortingControllerTest - User created random array of size 100000
 FILE [INFO ] 06-02-2022 8:46 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 8:46 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 8:46 pm main SortingController - User created random array of size 100000
+FILE [INFO ] 06-02-2022 8:46 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 8:46 pm main SortingControllerTest - User created random array of size 100000
 FILE [INFO ] 06-02-2022 8:46 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 8:46 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 8:47 pm main SortingController - User created random array of size 100000
+FILE [INFO ] 06-02-2022 8:46 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 8:47 pm main SortingControllerTest - User created random array of size 100000
 FILE [INFO ] 06-02-2022 8:57 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 8:57 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 8:57 pm main SortingController - User created random array of size 12
+FILE [INFO ] 06-02-2022 8:57 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 8:57 pm main SortingControllerTest - User created random array of size 12
 FILE [INFO ] 06-02-2022 8:57 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 8:57 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 8:57 pm main SortingController - User created random array of size 12
+FILE [INFO ] 06-02-2022 8:57 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 8:57 pm main SortingControllerTest - User created random array of size 12
 FILE [INFO ] 06-02-2022 8:58 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 8:58 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 8:58 pm main SortingController - User created random array of size 12
+FILE [INFO ] 06-02-2022 8:58 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 8:58 pm main SortingControllerTest - User created random array of size 12
 FILE [INFO ] 06-02-2022 8:58 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 8:58 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 8:58 pm main SortingController - User created random array of size 10000
+FILE [INFO ] 06-02-2022 8:58 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 8:58 pm main SortingControllerTest - User created random array of size 10000
 FILE [INFO ] 06-02-2022 8:59 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 8:59 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 8:59 pm main SortingController - User created random array of size 10000
+FILE [INFO ] 06-02-2022 8:59 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 8:59 pm main SortingControllerTest - User created random array of size 10000
 FILE [INFO ] 06-02-2022 9:01 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 9:01 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 9:01 pm main SortingController - User created random array of size 1000
+FILE [INFO ] 06-02-2022 9:01 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 9:01 pm main SortingControllerTest - User created random array of size 1000
 FILE [INFO ] 06-02-2022 9:01 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 9:01 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 9:02 pm main SortingController - User created random array of size 1000
+FILE [INFO ] 06-02-2022 9:01 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 9:02 pm main SortingControllerTest - User created random array of size 1000
 FILE [INFO ] 06-02-2022 9:02 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 9:02 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 9:02 pm main SortingController - User created random array of size 1000
+FILE [INFO ] 06-02-2022 9:02 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 9:02 pm main SortingControllerTest - User created random array of size 1000
 FILE [INFO ] 06-02-2022 9:09 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 9:09 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 9:09 pm main SortingController - User created random array of size 100000
+FILE [INFO ] 06-02-2022 9:09 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 9:09 pm main SortingControllerTest - User created random array of size 100000
 FILE [INFO ] 06-02-2022 9:10 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 9:10 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 9:10 pm main SortingController - User created random array of size 100000
+FILE [INFO ] 06-02-2022 9:10 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 9:10 pm main SortingControllerTest - User created random array of size 100000
 FILE [INFO ] 06-02-2022 9:12 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 9:12 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 9:12 pm main SortingController - User created random array of size 100000
+FILE [INFO ] 06-02-2022 9:12 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 9:12 pm main SortingControllerTest - User created random array of size 100000
 FILE [INFO ] 06-02-2022 9:13 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 9:13 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 9:13 pm main SortingController - User created random array of size 100000
+FILE [INFO ] 06-02-2022 9:13 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 9:13 pm main SortingControllerTest - User created random array of size 100000
 FILE [INFO ] 06-02-2022 9:14 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 9:14 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 9:14 pm main SortingController - User created random array of size 100000
+FILE [INFO ] 06-02-2022 9:14 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 9:14 pm main SortingControllerTest - User created random array of size 100000
 FILE [INFO ] 06-02-2022 9:14 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 9:14 pm main SortingController - User chose Binary Search Tree to sort the array
-FILE [INFO ] 06-02-2022 9:14 pm main SortingController - User created random array of size 100000
+FILE [INFO ] 06-02-2022 9:14 pm main SortingControllerTest - User chose Binary Search Tree to sort the array
+FILE [INFO ] 06-02-2022 9:14 pm main SortingControllerTest - User created random array of size 100000
 FILE [INFO ] 06-02-2022 9:15 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 9:15 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 9:15 pm main SortingController - User created random array of size 1000000
+FILE [INFO ] 06-02-2022 9:15 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 9:15 pm main SortingControllerTest - User created random array of size 1000000
 FILE [INFO ] 06-02-2022 9:15 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 9:15 pm main SortingController - User chose Binary Search Tree to sort the array
-FILE [INFO ] 06-02-2022 9:15 pm main SortingController - User created random array of size 1000000
+FILE [INFO ] 06-02-2022 9:15 pm main SortingControllerTest - User chose Binary Search Tree to sort the array
+FILE [INFO ] 06-02-2022 9:15 pm main SortingControllerTest - User created random array of size 1000000
 FILE [INFO ] 06-02-2022 9:15 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 9:15 pm main SortingController - User chose Merge sort to sort the array
-FILE [INFO ] 06-02-2022 9:15 pm main SortingController - User created random array of size 10000000
+FILE [INFO ] 06-02-2022 9:15 pm main SortingControllerTest - User chose Merge sort to sort the array
+FILE [INFO ] 06-02-2022 9:15 pm main SortingControllerTest - User created random array of size 10000000
 FILE [INFO ] 06-02-2022 9:16 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 9:16 pm main SortingController - User chose Binary Search Tree to sort the array
-FILE [INFO ] 06-02-2022 9:16 pm main SortingController - User created random array of size 10000000
+FILE [INFO ] 06-02-2022 9:16 pm main SortingControllerTest - User chose Binary Search Tree to sort the array
+FILE [INFO ] 06-02-2022 9:16 pm main SortingControllerTest - User created random array of size 10000000
 FILE [INFO ] 06-02-2022 9:21 pm main FactoryMain - Sort Manager initiated
-FILE [INFO ] 06-02-2022 9:21 pm main SortingController - User chose Bubble sort to sort the array
-FILE [INFO ] 06-02-2022 9:21 pm main SortingController - User created random array of size 10000
-FILE [INFO ] 06-02-2022 9:21 pm main SortingController - Algorithm took 104910800 nanoseconds to execute
+FILE [INFO ] 06-02-2022 9:21 pm main SortingControllerTest - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 9:21 pm main SortingControllerTest - User created random array of size 10000
+FILE [INFO ] 06-02-2022 9:21 pm main SortingControllerTest - Algorithm took 104910800 nanoseconds to execute
+FILE [INFO ] 06-02-2022 10:51 pm main SortingController - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 10:51 pm main SortingController - User chose Bubble sort to sort the array
