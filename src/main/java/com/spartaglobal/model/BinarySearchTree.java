@@ -22,6 +22,8 @@ public class BinarySearchTree implements Sort{
     @Override
     public int[] sort(int[] inputArray) {
 
+        if(inputArray == null) return null;
+
         if(inputArray.length == 0) return null;
 
         ArrayList<Integer> result = new ArrayList<>(); //Stores the sorted Array
