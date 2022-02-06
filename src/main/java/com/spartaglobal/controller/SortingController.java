@@ -39,6 +39,10 @@ public class SortingController {
                 logger.info("User chose Merge sort to sort the array");
                 sf = new MergeFactory();
             }
+            case "bst" -> {
+                logger.info("User chose Binary Search Tree to sort the array");
+                sf = new BinarySearchTreeFactory();
+            }
             default -> sf = null;
 
         };

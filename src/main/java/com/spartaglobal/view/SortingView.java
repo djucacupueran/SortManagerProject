@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class SortingView {
     public String getSortingAlgorithm(){
-        System.out.println("Enter bubble or merge");
+        System.out.println("Enter bubble, merge or bst");
         Scanner scanner = new Scanner(System.in);
-        
+
         String desiredAlgorithm = scanner.next();
         return desiredAlgorithm;
     }
