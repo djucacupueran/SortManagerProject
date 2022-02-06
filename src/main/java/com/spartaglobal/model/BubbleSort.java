@@ -20,7 +20,6 @@ public class BubbleSort implements Sort {
                 }
             }
         }
-        System.out.println("BUBBLEEEEEE");
         return array;
     }
 }

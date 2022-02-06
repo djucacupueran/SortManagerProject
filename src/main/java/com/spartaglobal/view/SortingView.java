@@ -11,6 +11,6 @@ public class SortingView {
     }
 
     public void displayResults(String result) {
-        System.out.println(result);
+        System.out.println("Sorted:   " + result);
     }
 }

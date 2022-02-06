@@ -58,7 +58,6 @@ public class MergeSort implements Sort{
         sort(rightHalf);
 
         merge(inputArray, leftHalf, rightHalf);
-        System.out.println("MERGEEEEEE");
         return inputArray;
     }
 }
