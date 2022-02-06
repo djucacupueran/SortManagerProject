@@ -1,6 +1,7 @@
 package com.spartaglobal;
 
 import com.spartaglobal.controller.SortingController;
+import com.spartaglobal.model.Sort;
 import com.spartaglobal.view.SortingView;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

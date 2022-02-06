@@ -25,7 +25,14 @@ public class SortingController {
         //Print original unsorted array
         System.out.println(("Original: " + Arrays.toString(userArray)));
 
-        return Arrays.toString(s.sort(userArray));
+    //Get algorithms execution time and return sorted Array
+        long start = System.nanoTime();
+        String result =  Arrays.toString(s.sort(userArray));
+        long stop = System.nanoTime();
+        System.out.println("Execution time: " + (stop-start));
+        long executionTime = stop -start;
+        logger.info("Algorithm took " + executionTime + " nanoseconds to execute");
+        return result;
     }
 
     public static Sort getSorted(int sortingMethod) {
