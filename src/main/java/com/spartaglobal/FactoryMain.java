@@ -13,7 +13,7 @@ public class FactoryMain {
         logger.info("Sort Manager initiated");
         SortingController controller = new SortingController();
         SortingView view  = new SortingView();
-        String desiredAlgorithm = view.getSortingAlgorithm();
+        int desiredAlgorithm = view.getSortingAlgorithm();
         String result = controller.sortArray(desiredAlgorithm);
         view.displayResults(result);
     }
