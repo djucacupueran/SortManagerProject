@@ -5,9 +5,14 @@ import java.util.Arrays;
 public class BubbleSort implements Sort {
     public int[] sort(int[] array){
 
-        //Return null if array has no enough elements to be sorted
-        if(array.length < 2){
+        //Return null if array is equal to null
+        if(array == null){
             return null;
+        }
+
+        //Return array if array has no enough elements to be sorted
+        if(array.length < 2){
+            return array;
         }
         //Iterate through array and swap elements when needed
         for(int i=0; i<array.length;i++){
