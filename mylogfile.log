@@ -171,3 +171,7 @@ FILE [INFO ] 06-02-2022 9:15 pm main SortingController - User created random arr
 FILE [INFO ] 06-02-2022 9:16 pm main FactoryMain - Sort Manager initiated
 FILE [INFO ] 06-02-2022 9:16 pm main SortingController - User chose Binary Search Tree to sort the array
 FILE [INFO ] 06-02-2022 9:16 pm main SortingController - User created random array of size 10000000
+FILE [INFO ] 06-02-2022 9:21 pm main FactoryMain - Sort Manager initiated
+FILE [INFO ] 06-02-2022 9:21 pm main SortingController - User chose Bubble sort to sort the array
+FILE [INFO ] 06-02-2022 9:21 pm main SortingController - User created random array of size 10000
+FILE [INFO ] 06-02-2022 9:21 pm main SortingController - Algorithm took 104910800 nanoseconds to execute

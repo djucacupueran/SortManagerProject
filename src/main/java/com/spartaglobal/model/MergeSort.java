@@ -6,6 +6,8 @@ import java.util.Random;
 public class MergeSort implements Sort{
 
     private static void merge(int[] inputArray, int[] leftHalf, int[] rightHalf){
+
+        //Sort arrays based on smaller arrays
         int leftSize = leftHalf.length;
         int rightSize = rightHalf.length;
 
@@ -37,16 +39,24 @@ public class MergeSort implements Sort{
 
     @Override
     public int[] sort(int[] inputArray) {
+
+        if(inputArray == null){
+            return null;
+        }
+
         int inputLength = inputArray.length;
 
+        //Return Array if not enough elements to sort it
         if(inputLength < 2){
             return inputArray;
         }
 
+        //calculates mid element in array to divide it into left an right array
         int midIndex = inputLength / 2;
         int[] leftHalf = new int[midIndex];
         int[] rightHalf = new int[inputLength - midIndex];
 
+        //adds corresponding elements of original array to left and right arrays
         for(int i=0; i< midIndex; i++){
             leftHalf[i] = inputArray[i];
         }
@@ -54,9 +64,11 @@ public class MergeSort implements Sort{
             rightHalf[i-midIndex] = inputArray[i];
         }
 
+        //Calls itself to keep dividing into smaller arrays until arrays of size 1
         sort(leftHalf);
         sort(rightHalf);
 
+        //Calls merge to sort small arrays into bigger ones
         merge(inputArray, leftHalf, rightHalf);
         return inputArray;
     }
