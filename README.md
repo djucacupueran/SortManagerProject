@@ -8,10 +8,10 @@
   2. How to Use
 * Phases of the project
 * Testing of the project
-##Summary
+## Summary
 A java based program that allows the user to sort an Array using three different sorting algorithms. The project has been created and structured following the MVC pattern (**Model, View, Controller**). Additionally, Testing classes have been included for the different sorting algorithms  
 
-##Dependencies
+## Dependencies
 * Log42j --2.17.1
 * JUnit --5.8.2
 ```xml
@@ -29,9 +29,9 @@ A java based program that allows the user to sort an Array using three different
     </dependencies>
 ```
 
-##Set up and Usage
+## Set up and Usage
 
-###How to Set up
+## How to Set up
 
 * Download or clone the git repository. If downloaded, extract files in a folder.
 * Open the project in the IDE you desire, we will make use of IntelliJ in this example.
@@ -39,7 +39,7 @@ A java based program that allows the user to sort an Array using three different
 ![alt text](https://github.com/djucacupueran/SortManagerProject/blob/main/Images/Screenshot%202022-02-07%20082302.png?raw=true)
 
 
-##How to Use
+## How to Use
 1. Go to the project in your IDE
 2. Run FactoryMain.java file
 3. Input a number to select between the different sorting options (**BST, BubbleSort, MergeSort**)
@@ -52,19 +52,19 @@ A java based program that allows the user to sort an Array using three different
 
 
 ## Phases of the project
-###Phase 1
+### Phase 1
 Project has been created at this phase as well as **Bubble** and **Merge** sorting algorithms. JUnit tests have been implemented to ensure the functionality of them
-###Phase 2
+### Phase 2
 MVC architecture has been implemented at this stage, organizing files into Model, View and Controller folders and creating required classes.
 Factory pattern implemented and Sorting interface as well.
-###Phase 3
+### Phase 3
 Logger has been added to the project making use of log4j included in this project. This allows us to keep track of users activity during the usage of the program for further analysis.
-###Phase 4
+### Phase 4
 Binary Search tree class for sorting arrays has been added to the Model making use of the sort interface. Required tests has been included and new option to select it.
-###Phase 5
+### Phase 5
 Execution time calculation has been added to the program, sending it to the logger and printing it to the users console.
 
-##Testing of the project
+## Testing of the project
 Different tests have been included to test the different sorting algorithms making use of JUnit.
 Among the tests null check arrays have been tested as well as repeated values or 1 element arrays.
 ![alt text](https://github.com/djucacupueran/SortManagerProject/blob/main/Images/Screenshot%202022-02-07%20084707.png?raw=true)
