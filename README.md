@@ -65,5 +65,9 @@ Binary Search tree class for sorting arrays has been added to the Model making u
 Execution time calculation has been added to the program, sending it to the logger and printing it to the users console.
 
 ##Testing of the project
+Different tests have been included to test the different sorting algorithms making use of JUnit.
+Among the tests null check arrays have been tested as well as repeated values or 1 element arrays.
+![alt text](https://github.com/djucacupueran/SortManagerProject/blob/main/Images/Screenshot%202022-02-07%20084707.png?raw=true)
 
+Different classes and interfaces of the program have been manually tested to ensure proper functionality.
 
