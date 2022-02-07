@@ -37,6 +37,6 @@ public class SortingView {
 
 
     public void displayResults(String result) {
-//        System.out.println("Sorted:   " + result);
+        System.out.println("Sorted:   " + result);
     }
 }

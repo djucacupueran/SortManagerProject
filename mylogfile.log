@@ -177,3 +177,11 @@ FILE [INFO ] 06-02-2022 9:21 pm main SortingControllerTest - User created random
 FILE [INFO ] 06-02-2022 9:21 pm main SortingControllerTest - Algorithm took 104910800 nanoseconds to execute
 FILE [INFO ] 06-02-2022 10:51 pm main SortingController - User chose Bubble sort to sort the array
 FILE [INFO ] 06-02-2022 10:51 pm main SortingController - User chose Bubble sort to sort the array
+FILE [INFO ] 07-02-2022 8:31 am main FactoryMain - Sort Manager initiated
+FILE [INFO ] 07-02-2022 8:32 am main SortingController - User chose Merge sort to sort the array
+FILE [INFO ] 07-02-2022 8:32 am main SortingController - User created random array of size 14
+FILE [INFO ] 07-02-2022 8:32 am main SortingController - Algorithm took 24300 nanoseconds to execute
+FILE [INFO ] 07-02-2022 8:33 am main FactoryMain - Sort Manager initiated
+FILE [INFO ] 07-02-2022 8:33 am main SortingController - User chose Merge sort to sort the array
+FILE [INFO ] 07-02-2022 8:33 am main SortingController - User created random array of size 14
+FILE [INFO ] 07-02-2022 8:33 am main SortingController - Algorithm took 23900 nanoseconds to execute

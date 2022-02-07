@@ -4,8 +4,8 @@
 * Summary
 * Dependencies
 * Set up and Usage
-  1. How to set up
-  2. How to use
+  1. How to Set up
+  2. How to Use
 * Phases of the project
 * Testing of the project
 ##Summary
@@ -31,11 +31,21 @@ A java based program that allows the user to sort an Array using three different
 
 ##Set up and Usage
 
-###How to set up
+###How to Set up
 
 * Download or clone the git repository. If downloaded, extract files in a folder.
 * Open the project in the IDE you desire, we will make use of IntelliJ in this example.
-* In the project left menu, go to pom.xml file to add the required dependencies to the project.
-* ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+* In the project left menu, go to pom.xml file to add the required dependencies to the project clicking the refresh Maeven .
+![alt text](https://github.com/djucacupueran/SortManagerProject/blob/main/Images/Screenshot%202022-02-07%20082302.png?raw=true)
+
+
+##How to Use
+1. Go to the project in your IDE
+2. Run FactoryMain.java file
+3. Input a number to select between the different sorting options (**BST, BubbleSort, MergeSort**)
+4. 
+5. Input a number to select the size of the random array that will be created.
+6. Results will appear in the console box showing original and sorted arrays and execution time.
+
 
 
