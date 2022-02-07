@@ -43,9 +43,27 @@ A java based program that allows the user to sort an Array using three different
 1. Go to the project in your IDE
 2. Run FactoryMain.java file
 3. Input a number to select between the different sorting options (**BST, BubbleSort, MergeSort**)
-4. 
-5. Input a number to select the size of the random array that will be created.
-6. Results will appear in the console box showing original and sorted arrays and execution time.
+4. Input a number to select the size of the random array that will be created.
 
+![alt text](https://github.com/djucacupueran/SortManagerProject/blob/main/Images/Screenshot%202022-02-07%20083433.png?raw=true)
+5. Results will appear in the console box showing original and sorted arrays and execution time.
+
+![alt text](https://github.com/djucacupueran/SortManagerProject/blob/main/Images/Screenshot%202022-02-07%20083354.png?raw=true)
+
+
+## Phases of the project
+###Phase 1
+Project has been created at this phase as well as **Bubble** and **Merge** sorting algorithms. JUnit tests have been implemented to ensure the functionality of them
+###Phase 2
+MVC architecture has been implemented at this stage, organizing files into Model, View and Controller folders and creating required classes.
+Factory pattern implemented and Sorting interface as well.
+###Phase 3
+Logger has been added to the project making use of log4j included in this project. This allows us to keep track of users activity during the usage of the program for further analysis.
+###Phase 4
+Binary Search tree class for sorting arrays has been added to the Model making use of the sort interface. Required tests has been included and new option to select it.
+###Phase 5
+Execution time calculation has been added to the program, sending it to the logger and printing it to the users console.
+
+##Testing of the project
 
 
